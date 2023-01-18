@@ -37,24 +37,24 @@ const seedDB = async () => {
 			},
 			images: [
 				{
-					url: "https://res.cloudinary.com/dnwtehvju/image/upload/v1672742555/YelpCamp/zboqxit4s1dvybvz08xt.jpg",
-					filename: "YelpCamp/zboqxit4s1dvybvz08xt",
+					url: "https://res.cloudinary.com/dnwtehvju/image/upload/v1674067043/YelpCamp/dejan-cabrilo-_guOEZqWpaQ-unsplash_qicgxk.jpg",
+					filename: "YelpCamp/dejan-cabrilo-_guOEZqWpaQ-unsplash_qicgxk",
 				},
 				{
-					url: "https://res.cloudinary.com/dnwtehvju/image/upload/v1672742557/YelpCamp/ctx90ieajq6dzy3fj9qr.jpg",
-					filename: "YelpCamp/ctx90ieajq6dzy3fj9qr",
+					url: "https://res.cloudinary.com/dnwtehvju/image/upload/v1674067038/YelpCamp/jasper-garratt-krfapSCiZlQ-unsplash_p8xo0q.jpg",
+					filename: "YelpCamp/jasper-garratt-krfapSCiZlQ-unsplash_p8xo0q",
 				},
 				{
-					url: "https://res.cloudinary.com/dnwtehvju/image/upload/v1672742560/YelpCamp/s26sdor4yiacep68gqfe.jpg",
-					filename: "YelpCamp/s26sdor4yiacep68gqfe",
+					url: "https://res.cloudinary.com/dnwtehvju/image/upload/v1674067038/YelpCamp/dejan-cabrilo-lcO1gfAG0vU-unsplash_bglpvt.jpg",
+					filename: "YelpCamp/dejan-cabrilo-lcO1gfAG0vU-unsplash_bglpvt",
 				},
 				{
-					url: "https://res.cloudinary.com/dnwtehvju/image/upload/v1672742563/YelpCamp/cvz68bfz54ymcti7bxue.jpg",
-					filename: "YelpCamp/cvz68bfz54ymcti7bxue",
+					url: "https://res.cloudinary.com/dnwtehvju/image/upload/v1674067037/YelpCamp/evan-leith-TRl55zC3MU0-unsplash_ne6fhf.jpg",
+					filename: "YelpCamp/evan-leith-TRl55zC3MU0-unsplash_ne6fhf",
 				},
 				{
-					url: "https://res.cloudinary.com/dnwtehvju/image/upload/v1672742566/YelpCamp/eoorv0qdqzdychjrapqo.jpg",
-					filename: "YelpCamp/eoorv0qdqzdychjrapqo",
+					url: "https://res.cloudinary.com/dnwtehvju/image/upload/v1674067036/YelpCamp/daniel-koponyas-efSTj_AifJU-unsplash_vf6aog.jpg",
+					filename: "YelpCamp/daniel-koponyas-efSTj_AifJU-unsplash_vf6aog",
 				},
 			],
 		});
